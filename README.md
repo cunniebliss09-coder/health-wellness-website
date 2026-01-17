@@ -114,7 +114,7 @@ Helilah is your go-to platform for health and wellness. We share simple tips on 
     <p>Email: helilah@email.com</p>
     <p>Phone/WhatsApp: +234 000 000 0000</p>
     <!-- WhatsApp Contact Button -->
-    <a href="https://wa.me/2340000000000" class="btn" target="_blank">Chat on WhatsApp</a>
+    <a href="https://wa.me/2347033095161" class="btn" target="_blank">Chat on WhatsApp</a>
   </div>
 </section>
 
